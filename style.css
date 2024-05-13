@@ -1,0 +1,18 @@
+body {
+	background-image: url("back.png");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#textbg {
+	background-color: rgba(121,58,128,0.2);
+	margin-top: 10px;
+	display: grid;
+	border-radius: 10px;
+	width: 50%;
+	height: 100%;
+}
+
+#txt1 {
+	font-family: "VT323", monospace;
+}
