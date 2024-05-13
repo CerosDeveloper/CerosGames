@@ -7,6 +7,9 @@ body {
 #textbg {
 	background-color: rgba(121,58,128,0.2);
 	margin-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
 	display: grid;
 	border-radius: 10px;
 	width: 50%;
